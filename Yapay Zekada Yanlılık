@@ -1,0 +1,17 @@
+Yapay zeka aslında kendisini besleyen veriler, datalarla kendini geliştirir ve bu verilerde insan kaynaklı olduğu için bias(yanlılık) sorunu 
+ortaya çıkar.
+
+Peki tam olarak bu yanlılık sorunu nedir?
+
+Yanlılık dediğimiz şeyi örneklerle izah edecek olursam, mühendislikle alakalı bir alanda işe alım yaparken otomatik olarak kadın adayları elemek
+veya erkek adayları tercih etmek buna bir örnek olabilir. Buna başka bir örnekte, bazı çeviri sitelerinde bazı spesifik cümleleri ingilizceye 
+çevirmek istediğimizde bize otomatik he veya she ile cevap vermesi gösterilebilir. Buna örnek “o bir mühendis” veya “o bir hemşire” cümlesini 
+ingilizceye çevirmek istediğinizde size otomatik mühendis için “he is an engineer” veya hemşire için “she is a nurse” çevirisini yapması 
+verilebilir. Nihayetinde bu gibi hatalar günümüz dünyasında vurguladığımız cinsiyet eşitliği, adalet, pozitif ayrımcılığın önüne geçilmesi gibi 
+kavramlara ters olduğu için ciddi sorunlara yol açabilir.
+
+Yapay zekanın yanlış öğrenmesini nasıl düzeltiriz?
+
+Çok basit, yapay zekanın geliştirici ekibinde farklı kültür ve düşüncede insanlara yer vererek bu ayrımcı düşüncelerin önüne geçebiliriz. 
+Yarının dünyasının daha güzel olmasını istiyorsak işe yapay zekadan başlamak aslında sandığımızdan çok daha önemli olabilir. 
+Bir kızılderili atasözünün dediği gibi “Biz bu dünyayı dedelerimizden miras almadık; çocuklarımızdan ödünç aldık”.
